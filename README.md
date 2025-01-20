@@ -84,12 +84,6 @@
 
 ---
 
-Aquí tienes todo el contenido en formato Markdown para que puedas copiarlo y usarlo en tu archivo README:
-
----
-
-# Git Documentation
-
 ## Basic Git Commands
 
 ### Initializing and Cloning Repositories
@@ -164,8 +158,6 @@ Aquí tienes todo el contenido en formato Markdown para que puedas copiarlo y us
 
 - **`git branch <branch_name>`**  
   Creates a new branch with the specified name.  
-
-
 
 
 --
